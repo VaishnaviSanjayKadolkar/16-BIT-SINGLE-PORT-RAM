@@ -5,7 +5,7 @@ This project implements a **16-bit single-port synchronous RAM** using Verilog H
 ---
 
 
-- Vaishnavi Sanjay Kadolkar (02FE22BEC115)  
+**Vaishnavi Sanjay Kadolkar (02FE22BEC115)**  
 
 **Mentor:** Prof. Ashwini Desai  
 **Department:** Electronics and Communication Engineering  
@@ -137,4 +137,4 @@ This project successfully demonstrates the complete design and implementation of
 
 ---
 
-All required files with result analysis are added in the [6bit Sinle port RAM.zip][(16bitSingleportRAM.zip)](https://github.com/VaishnaviSanjayKadolkar/16-BIT-SINGLE-PORT-RAM/blob/main/16BIT%20Single%20port%20RAM.zip)
+All required files with result analysis are added in the [6bit Sinle port RAM.zip](https://github.com/VaishnaviSanjayKadolkar/16-BIT-SINGLE-PORT-RAM/blob/main/16BIT%20Single%20port%20RAM.zip)
