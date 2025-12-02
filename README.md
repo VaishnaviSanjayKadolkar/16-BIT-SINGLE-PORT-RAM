@@ -137,4 +137,4 @@ This project successfully demonstrates the complete design and implementation of
 
 ---
 
-All required files with result analysis are added in the [6bit Sinle port RAM.zip](https://github.com/VaishnaviSanjayKadolkar/16-BIT-SINGLE-PORT-RAM/blob/main/16BIT%20Single%20port%20RAM.zip)
+All required files with result analysis are added in the [16bit Sinle port RAM.zip](https://github.com/VaishnaviSanjayKadolkar/16-BIT-SINGLE-PORT-RAM/blob/main/16BIT%20Single%20port%20RAM.zip)
