@@ -4,10 +4,7 @@ This project implements a **16-bit single-port synchronous RAM** using Verilog H
 
 ---
 
-## 👥 Team Members
 
-- Diya Revankar (02FE22BEC026)  
-- Shraman Kanthi (02FE22BEC092)  
 - Vaishnavi Sanjay Kadolkar (02FE22BEC115)  
 
 **Mentor:** Prof. Ashwini Desai  
