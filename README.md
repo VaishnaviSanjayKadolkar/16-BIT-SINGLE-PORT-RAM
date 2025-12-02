@@ -69,3 +69,83 @@ The memory module includes:
 
 ## 🔧 Verilog Files
 
+Below are the main HDL source files used in the design:
+
+- [ram_sp_16bit.v](src/ram_sp_16bit.v) — 16-bit Single Port Synchronous RAM  
+- [tb_ram_sp_16bit.v](src/tb_ram_sp_16bit.v) — Testbench for functional verification
+
+
+
+---
+
+## 📊 Simulation Results
+(Screenshots can be placed inside /simulation)
+
+- Successful synchronous read/write cycle verification  
+- Correct behavior for multiple addresses  
+- Immediate read-after-write validation  
+
+---
+
+## 🏗️ Synthesis Results (Genus)
+
+### ✔️ Area Report  
+- Total cells: **7493**  
+- Total area: **102515.293 units**
+
+### ✔️ Power  
+- Leakage: **617116.565 nW**  
+- Internal dynamic power: **29345171.628 nW**
+
+### ✔️ Gate Summary  
+- 4096 sequential cells (DFFs)  
+- Combinational logic: NAND, NOR, AOI, OAI, buffers, inverters  
+
+---
+
+## 🧱 Physical Design (Innovus)
+
+Includes:  
+- Floorplan  
+- Placement  
+- Clock Tree Synthesis (CTS)  
+- Routing  
+- Final layout snapshot  
+- Setup and hold time analysis  
+
+---
+
+## 🚀 Advantages
+
+- Fully synchronous memory design ensures stable timing  
+- Simple architecture suitable for small to medium embedded memory  
+- Easily scalable to wider word sizes and deeper memory  
+- Synthesizable and suitable for ASIC/FPGA flows  
+
+---
+
+## 🎯 Applications
+
+- Microcontroller RAM blocks  
+- Processor cache/buffer memory  
+- DSP temporary storage  
+- Embedded system scratchpad memory  
+- FPGA-based RAM modules  
+
+---
+
+## ✅ Conclusion
+
+This project successfully demonstrates the complete design and implementation of a **16-bit single-port synchronous RAM** using Verilog. Through simulation, synthesis, and physical implementation using Cadence EDA tools, the design was validated for functional accuracy, timing integrity, and physical feasibility. The project builds strong understanding in ASIC memory design, synchronous timing, and EDA workflows.
+
+---
+
+## 📜 References
+
+(Derived from course project report)
+
+- Cadence Genus & Innovus Documentation  
+- Weste & Harris – CMOS VLSI Design  
+- Rabaey – Digital Integrated Circuits  
+- SkyWater 130nm PDK  
+- IEEE VLSI physical design references  
