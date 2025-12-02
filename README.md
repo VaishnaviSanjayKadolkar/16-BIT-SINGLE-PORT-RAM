@@ -140,12 +140,4 @@ This project successfully demonstrates the complete design and implementation of
 
 ---
 
-## 📜 References
-
-(Derived from course project report)
-
-- Cadence Genus & Innovus Documentation  
-- Weste & Harris – CMOS VLSI Design  
-- Rabaey – Digital Integrated Circuits  
-- SkyWater 130nm PDK  
-- IEEE VLSI physical design references  
+All required files with result analysis are added in the [6bit Sinle port RAM.zip](16bitSingleportRAM.zip)
