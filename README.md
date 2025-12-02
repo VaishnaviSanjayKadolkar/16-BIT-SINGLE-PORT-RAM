@@ -71,8 +71,8 @@ The memory module includes:
 
 Below are the main HDL source files used in the design:
 
-- [ram_sp_16bit.v](src/ram_sp_16bit.v) — 16-bit Single Port Synchronous RAM  
-- [tb_ram_sp_16bit.v](src/tb_ram_sp_16bit.v) — Testbench for functional verification
+- [ram_sp_16bit.v](ram.v) — 16-bit Single Port Synchronous RAM  
+- [tb_ram_sp_16bit.v](tb.v) — Testbench for functional verification
 
 
 
